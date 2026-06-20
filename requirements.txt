@@ -1,0 +1,2 @@
+# The harness, agents, and evals are pure standard library — nothing to install.
+pytest>=7.4   # only needed to run the tests
